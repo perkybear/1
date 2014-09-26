@@ -26,7 +26,6 @@
 <h3>html5 canvas打造时钟</h3>
 <canvas id="canvas" width="600" height="600">
     您的浏览器不支持canvas,请使用高级浏览器。
-    http://blog.segmentfault.com/trigkit4/1190000000652925
 </canvas>
 <p>似水流年，且行且珍惜！</p>
 <script type="text/javascript">
